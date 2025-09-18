@@ -1,6 +1,7 @@
-# Statistical Aesthetics
+# **Statistical Aesthetics**
 
-A curated collection of data visualizations that replicate the color palettes and themes of world-famous paintings. This project explores the intersection of art, history, and data science by using meaningful datasets to create beautiful and insightful "data art."
+> **A curated collection of data visualizations that replicate the color palettes and themes of world-famous paintings. This project explores the intersection of art, history, and data science by using meaningful datasets to create beautiful and insightful "data art."**
+
 
 ## Project Philosophy
 
