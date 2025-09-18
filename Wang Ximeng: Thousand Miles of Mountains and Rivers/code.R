@@ -33,7 +33,7 @@ ggplot(data_with_id, aes(x = Length, y = fct_reorder(Dynasty, -group_no),
         plot.background=element_rect(fill="#A18A3C")) +
   theme(legend.background = element_rect(fill = "#A18A3C")) +
   labs(y = "", x = "") + 
-  ggtitle("The Mandate of Time: Reign Lengths for Chinese Rulers",
+  ggtitle("The Mandate of Time: Reign Lengths of Chinese Emperors",
           subtitle = "     ") +
   theme(legend.position = c(1, 0.1)) +
   theme(plot.title = element_text(hjust = 0.5, face="bold", size=20)) +
