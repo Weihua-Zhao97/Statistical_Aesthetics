@@ -9,11 +9,11 @@ This repository is an ongoing project to re-imagine classic art through the lens
 ## Exhibitions
 
 ### The Mandate of Time: Reign Lengths of Chinese Emperors
-This work visualizes the reign lengths of 537 Chinese emperors across dynasties from Xia to Qing. Using R's `ggridges` package, it creates a a ridgeline plot showing the distribution of the length of reign for rulers in all dynasties of imperial China, styled with the iconic blue-green palette of Wang Ximeng's *A Thousand Li of Rivers and Mountains* (千里江山图).
+This work visualizes the reign lengths of Chinese emperors across dynasties from Xia to Qing. Using R's `ggridges` package, it creates a a ridgeline plot showing the distribution of the length of reign for rulers in all dynasties of imperial China, styled with the iconic blue-green palette of Wang Ximeng's *A Thousand Li of Rivers and Mountains* (千里江山图).
 
-- **Data:** Historical records of Chinese imperial reigns.
-- **Tool:** R, ggplot2, ggridges (Gaussian kernel)
-- **Art Inspiration:** 《千里江山图》 by Wang Ximeng (1096–1119, Northern Song Dynasty)
+- **Data:** Historical records of the reign lengths of 537 Chinese emperors from Xia dynasty to Qing dynasty (Source: Wikipedia).
+- **Tool:** R, ggplot2, ggridges (with Gaussian kernel)
+- **Art Inspiration:** [《千里江山图》 by Wang Ximeng  (1096–1119, Northern Song Dynasty)](https://www.dailyartmagazine.com/one-thousand-li-of-rivers-and-mountains/)
 
 ![plot](https://github.com/Weihua-Zhao97/Statistical_Aesthetics/blob/main/Wang%20Ximeng%3A%20Thousand%20Miles%20of%20Mountains%20and%20Rivers/Plot.jpeg)
 
