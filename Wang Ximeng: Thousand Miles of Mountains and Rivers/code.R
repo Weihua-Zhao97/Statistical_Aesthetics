@@ -1,6 +1,5 @@
 install.packages("ggridges")
 install.packages("polyclip")
-install.packages("cowplot")
 
 library(gtable)
 library(scales)
