@@ -26,7 +26,7 @@ This work visualizes the reign lengths of Chinese emperors across dynasties from
 - **Data:** Historical records of the reign lengths of 537 Chinese emperors from Xia dynasty to Qing dynasty
 - **Data Source:** Wikipedia
 - **Tool:** @R `ggplot2` | `ggridges` (Gaussian kernel)
-- **Art Inspiration:** [《千里江山图》 by Wang Ximeng  (CN, 1096–1119, Northern Song Dynasty)](https://www.dailyartmagazine.com/one-thousand-li-of-rivers-and-mountains/)
+- **Art Inspiration:** [《千里江山图》](https://www.dailyartmagazine.com/one-thousand-li-of-rivers-and-mountains/) by Wang Ximeng (CN, 1096–1119, Northern Song Dynasty)
 <br>
 
 ![plot](https://github.com/Weihua-Zhao97/Statistical_Aesthetics/blob/main/Wang%20Ximeng%3A%20Thousand%20Miles%20of%20Mountains%20and%20Rivers/Plot.jpeg)
@@ -34,9 +34,9 @@ This work visualizes the reign lengths of Chinese emperors across dynasties from
 ## Future Work ##
 
 Planned pieces include:
-- Replicating Xu Wei (徐渭, CN, 1521-1593)'s *Peonies* with the combination of chord diagram and hierarchical edge bundling.
+- Replicating Xu Wei (徐渭, CN, 1521-1593, Ming Dynasty)'s *Peonies* with the combination of chord diagram and hierarchical edge bundling.
 - Replicating Claude Monet (FR, 1840-1926)'s *Water Lilies* with heatmaps.
 
 ## Contributing ##
 
-Suggestions for artistically significant paintings and thematically linked datasets are welcome!
+Suggestions and comments are welcome and appreciated. Stay tuned for more updates.
