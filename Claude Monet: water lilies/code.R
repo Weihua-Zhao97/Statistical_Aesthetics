@@ -47,8 +47,9 @@ TSX.rt = data.frame(date=head(TSX$Date, -1),
 Nikkei.rt = data.frame(date=head(Nikkei$Date, -1),
                        return=log(Nikkei$Close[-length(Nikkei$Date)]/Nikkei$Close[-1])*100)
 
-
+#==============================================================================#
 # define helper function to fill in missing values with return zero
+#==============================================================================#
 fill_miss_values <- function(rt, char) {
   
   data <- rt %>%
