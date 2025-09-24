@@ -39,7 +39,7 @@ This work visualizes the reign lengths of Chinese emperors across dynasties from
 ### The Pond of Trade War: Global Market Volatility Under a Monet Palette
 This visualization frames major global stock markets (US, CA, EU, UK, CN, JP) during Trump's trade war as an impressionist landscape: the x-axis corresponds to the day of the month and the y-axis lists the months in chronological order; each cell represents the market volatility, measured by absolute percentage log-returns. The plot maps the serene greens, violets, and pinks of Claude Monet's Water Lilies series onto financial turbulence due to geopolitical tension and uncertainty, potraiting a deceptively harmonious pond. 
 <p align="center">
-<img src="https://github.com/Weihua-Zhao97/Statistical_Aesthetics/blob/main/Claude%20Monet%3A%20water%20lilies/plot.jpeg"  />
+<img src="https://github.com/Weihua-Zhao97/Statistical_Aesthetics/blob/main/Claude%20Monet%3A%20water%20lilies/Rplot.jpeg"  />
 </p>
 
 - **Data:** Representative market indices (for six economies: US, CA, EU, UK, CN, JP) from Sep 30, 2024 to Sep 22, 2025
