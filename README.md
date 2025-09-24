@@ -51,7 +51,6 @@ This visualization frames major global stock markets (US, CA, EU, UK, CN, JP) du
 
 Planned pieces include:
 - Replicating Xu Wei (徐渭, CN, 1521-1593, Ming Dynasty)'s *Peonies* with the combination of chord diagram and hierarchical edge bundling.
-- Replicating Claude Monet (FR, 1840-1926)'s *Water Lilies* with heatmaps.
 
 ## Contributing ##
 
