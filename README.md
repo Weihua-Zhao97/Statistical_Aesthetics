@@ -14,7 +14,7 @@
 </div>
 
 <h4 align="justify"> 
-Statistical Aesthetics is a curated collection of data visualizations that replicate the color palettes and themes of world-famous paintings. This project explores the intersection of art, history, and data science, using meaningful datasets to create beautiful and insightful "data art." The goal of this ongoing project is to re-imagine classic art through the lens of data. Each visualization is an attempt to find a harmonious blend where the chosen dataset thematically resonates with the masterpiece it seeks to emulate.
+Statistical Aesthetics is my original collection of data visualizations that replicate the color palettes and themes of world-famous paintings. This project explores the intersection of art, history, and data science, using meaningful datasets to create beautiful and insightful "data art." The goal of this ongoing project is to re-imagine classic art through the lens of data. Each visualization is an attempt to find a harmonious blend where the chosen dataset thematically resonates with the masterpiece it seeks to emulate.
 </h4>
 <br>
 
