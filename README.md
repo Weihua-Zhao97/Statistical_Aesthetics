@@ -21,7 +21,7 @@ Statistical Aesthetics is my original collection of data visualizations that rep
 ## On Exhibition ##
 
 ### The Mandate of Time: Reign Lengths of Chinese Emperors
-This work visualizes the distribution of reign lengths (in years) for rulers of imperial China from Xia dynasty to the final Qing dynasty. The plot maps the flow of history onto two-dimensional ridgelines, styled with the iconic blue-green palette of Wang Ximeng's *A Thousand Li of Rivers and Mountains* (千里江山图), invoking the traditional metaphor of "jiangshan" (江山)—literally "rivers and mountains"—a concept that symbolizes state power and territorial domain in Chinese cultural and political discourse.
+This work visualizes the distribution of reign lengths (in years) for rulers of imperial China from Xia dynasty to the final Qing dynasty. The plot maps the flow of history onto two-dimensional ridgelines, styled with the iconic blue-green palette of Wang Ximeng's *A Thousand Li of Rivers and Mountains* (千里江山图), invoking the traditional metaphor of "jiangshan" (江山)—literally "rivers and mountains"—a concept that symbolizes state power and territorial domain in Chinese cultural discourse.
 <p align="center">
 <img src="https://github.com/Weihua-Zhao97/Statistical_Aesthetics/blob/main/Wang%20Ximeng%3A%20Thousand%20Miles%20of%20Mountains%20and%20Rivers/Plot.jpeg"  />
 </p>
