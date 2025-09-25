@@ -21,8 +21,7 @@ Statistical Aesthetics is my original collection of data visualizations that rep
 ## On Exhibition ##
 
 ### The Mandate of Time: Reign Lengths of Chinese Emperors
-This work visualizes the reign lengths of Chinese emperors across dynasties from Xia to Qing. Using R's `ggridges` package, it creates a a ridgeline plot showing the distribution of the length of reign for rulers in all dynasties of imperial China, styled with the iconic blue-green palette of Wang Ximeng's *A Thousand Li of Rivers and Mountains* (千里江山图).
-
+This work visualizes the reign lengths of Chinese emperors across dynasties from Xia to final Qing. It creates a a ridgeline plot showing the distribution of the length of reign (in years) for rulers in all dynasties of imperial China, styled with the iconic blue-green palette of Wang Ximeng's *A Thousand Li of Rivers and Mountains* (千里江山图), invoking the traditional metaphor of 江山—"rivers and mountains"—which symbolizes the state power and territorial realm.
 <p align="center">
 <img src="https://github.com/Weihua-Zhao97/Statistical_Aesthetics/blob/main/Wang%20Ximeng%3A%20Thousand%20Miles%20of%20Mountains%20and%20Rivers/Plot.jpeg"  />
 </p>
