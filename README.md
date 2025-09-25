@@ -47,7 +47,7 @@ This work visualized major global stock markets (US, CA, EU, UK, CN, JP) during 
 - **Tool:** @R `ggplot2`
 - **Inspiration:** [Water Lilies](https://www.metmuseum.org/art/collection/search/438008) by Claude Monet (FR, 1840-1926)
 <p align="center">
-<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/438008/1606693/restricted" width="900"  />
+<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/438008/1606693/restricted" width="800"  />
 </p>
 <br>
 
